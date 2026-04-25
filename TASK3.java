@@ -3,7 +3,7 @@ public class TASK3 {
 
         String a = new String("WOW");
         String b = "WOW";
-        String c = b;
+        String c = a;
         String d = a;
 
         boolean b1 = a ==b ;
