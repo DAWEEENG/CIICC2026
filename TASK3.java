@@ -1,10 +1,10 @@
 public class TASK3 {
     public static void main(String[] args) {
 
-        String a = new String("WOW");
+        String a = "WOW";
         String b = "WOW";
-        String c = a;
-        String d = a;
+        String c = "HELLO";
+        String d = "WOW!";
 
         boolean b1 = a ==b ;
         boolean b2 = d.equals(b+"!");
